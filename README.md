@@ -71,7 +71,7 @@ Significantly improves research quality by pulling real view-count-ranked videos
 3. Create credentials → API Key
 4. Set as `YOUTUBE_DATA_API_KEY` in your environment
 
-Free tier: 10,000 units/day. A typical research run uses ~100–300 units. The skill falls back to web search only if no key is present.
+Free tier: 10,000 units/day. A typical research run uses ~100–300 units. If no key is present, the skill falls back to web search alone.
 
 ### Communication Surface
 
